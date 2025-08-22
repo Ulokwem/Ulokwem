@@ -36,11 +36,17 @@ I share my thoughts and insights through blog posts. Check out some of my popula
 
 Continuous improvement is essential. Here are some of my certifications in data analysis and related fields:
 
-Google Data Analytics (Cousera)
-Certificate Of Completion (Primo Academy Data Analytics Trainee Program)
-Microsoft Power BI Desktop for Business Intelligence
-SQL Fundamentals (Coursera)
-Data Analytics Essential (Cisco)
-Introduction to Data Science (Cisco)
-MySQL for Data Analytics and Business Intelligence
-Feel free to explore my repositories and projects to see how I leverage data analysis to make a difference. Connect with me to discuss data challenges, share ideas, or collaborate on exciting projects! 🚀
+• Google Data Analytics (Cousera)
+
+•Certificate Of Completion (Primo Academy Data Analytics Trainee Program)
+
+•Microsoft Power BI Desktop for Business Intelligence
+•SQL Fundamentals (Coursera)
+
+•Data Analytics Essential (Cisco)
+
+•Introduction to Data Science (Cisco)
+
+•MySQL for Data Analytics and Business Intelligence
+
+•Feel free to explore my repositories and projects to see how I leverage data analysis to make a difference. Connect with me to discuss data challenges, share ideas, or collaborate on exciting projects! 🚀
