@@ -26,6 +26,7 @@ Advanced SQL Techniques
 I love to collaborate and network! Reach out to me through the following channels:
 
 LinkedIn: Ulokwem Okechi Victor
+
 Email: okechiulokwem@gmail.com
 
 📚 Blog Articles
@@ -41,6 +42,7 @@ Continuous improvement is essential. Here are some of my certifications in data 
 •Certificate Of Completion (Primo Academy Data Analytics Trainee Program)
 
 •Microsoft Power BI Desktop for Business Intelligence
+
 •SQL Fundamentals (Coursera)
 
 •Data Analytics Essential (Cisco)
